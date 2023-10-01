@@ -1,6 +1,6 @@
 ## Introduction to ChatGPT Prompt Engineering
 
-This repo covers a short course on prompt engineering and Instruction Tuned LLMs. You can access the content yourself on DeepLearning.org[https://www.deeplearning.ai/short-courses/].
+This repo covers a short course on prompt engineering and Instruction Tuned LLMs. You can access the content yourself on [deeplearning.org](https://www.deeplearning.ai/short-courses/)
 
 Two types of LLMs:
 - Base LLMs: Predict next word (like chatgpt), trained on the internet. Which means we can't expect reasonable answers to all our prompts.
